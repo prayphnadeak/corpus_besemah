@@ -15,6 +15,13 @@ This dataset is curated for training and tuning AI models on the Besemah languag
 - **Training Examples**: 28281
 - **Validation Examples**: 3143
 
+## Contributors
+
+- **Project Leader**: Pray Putra Hasianro Nadeak, S.ST. (BPS-Statistics of Pagar Alam Municipality)
+- **Co-Project Leader** : M. Rifky Naratama, S.Tr.Stat (BPS-Statistics of Pagar Alam Municipality)
+- **Data Engineer 1**: Rahmat Hidayat (Undergraduate Student of UNSRI-Sriwijaya Uninversity)
+- **Data Engineer 2**: Deka (Undergraduate Student of UNSRI-Sriwijaya Uninversity)
+
 ## Format
 
 The `.jsonl` files follow the Alpaca instruction format:
@@ -26,3 +33,4 @@ The `.jsonl` files follow the Alpaca instruction format:
     "output": "..."
 }
 ```
+
