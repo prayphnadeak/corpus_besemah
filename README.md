@@ -17,7 +17,7 @@ This dataset is curated for training and tuning AI models on the Besemah languag
 
 ## Contributors
 
-- **Project Leader**: Pray Putra Hasianro Nadeak, S.ST. (BPS-Statistics of Pagar Alam Municipality)
+- **Project Leader**: Pray Putra Hasianro Nadeak, S.ST., M.T. (BPS-Statistics of Pagar Alam Municipality)
 - **Co-Project Leader** : M. Rifky Naratama, S.Tr.Stat (BPS-Statistics of Pagar Alam Municipality)
 - **Data Engineer 1**: Rahmat Hidayat (Undergraduate Student of UNSRI-Sriwijaya Uninversity)
 - **Data Engineer 2**: Deka (Undergraduate Student of UNSRI-Sriwijaya Uninversity)
